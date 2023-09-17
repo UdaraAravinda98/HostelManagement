@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HostelManagementDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Add_room">
+    <Key>
+      <PropertyRef Name="room_id" />
+    </Key>
+    <Property Name="floor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="room_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="room_no" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="front_key" Type="Int32" Nullable="false" />
+    <Property Name="back_key" Type="Int32" Nullable="false" />
+    <Property Name="beds" Type="Int32" Nullable="false" />
+    <Property Name="mattress" Type="Int32" Nullable="false" />
+    <Property Name="room_table" Type="Int32" Nullable="false" />
+    <Property Name="chairs" Type="Int32" Nullable="false" />
+    <Property Name="fans" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="HostelManagementDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Add_room" EntityType="Self.Add_room" />
+  </EntityContainer>
+</Schema>

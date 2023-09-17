@@ -1,0 +1,1233 @@
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.Cache
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Studentdetails.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Desktop\project\Finalproject\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+D:\hostelloginpage\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+D:\3.1\IT3152 Group Project\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Danu\Desktop\HostelNewAssignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnect.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.StudentLivingStatus.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor2.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor3.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor4.resources
+C:\Users\Danu\Desktop\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.StudentLivingStatus.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnect.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor2.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor3.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor4.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\copyof assignment\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.StudentLivingStatus.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnect.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor2.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor3.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor4.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+F:\copyof assignment\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.StudentLivingStatus.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnect.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor2.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor3.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor4.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.StudentLivingStatus.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnect.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor2.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor3.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor4.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+D:\3.1\IT3152 Group Project\New\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form2.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.StudentLivingStatus.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnect.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor2.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor3.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.roomconnectFloor4.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.showstudentdet.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.living.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.SentUrlmail.resources
+C:\Users\Januja\Desktop\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Mailbox.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.living.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Mailbox.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.SentUrlmail.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.showstudentdet.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.aboutus.resources
+C:\Users\Danu\Desktop\Group Project\New folder4\CopyOfFinal\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.contact.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.aboutus.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.contact.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.living.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Mailbox.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.SentUrlmail.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.showstudentdet.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Downloads\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.aboutus.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.contact.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.living.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Mailbox.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.SentUrlmail.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.showstudentdet.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\FinalProjectNew (1)\FinalProject\Hostel\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\HostelDB.mdf
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\HostelDB_log.ldf
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.config
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\hostelloginpage.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\Guna.UI2.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ZstdNet.dll
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.pdb
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\Google.Protobuf.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\MySql.Data.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\System.Buffers.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\System.Memory.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.AssemblyReference.cache
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.aboutus.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Addstaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.AllStudentdetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.contact.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.deleteroom.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAss.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditAsserts.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.editStaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.EditStudentDetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.edtstaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ExcelToSql.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.FirstFloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Forgotpassword.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Form1.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Fourthfloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.frontpage.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.fulldetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.living.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Mailbox.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageAsserts.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Managestaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.ManageStudent.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Manage_rooms.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.NewStudent.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Reset.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Roomdetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Secondfloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.SentUrlmail.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.showstudentdet.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Signup.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Properties.Resources.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.stuFullDetails.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.Thirdfloor.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.viewStaff.resources
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.GenerateResource.cache
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CoreCompileInputs.cache
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe.manifest
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.application
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.csproj.CopyComplete
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.exe
+C:\Users\Januja\Desktop\hostelloginpage\hostelloginpage\obj\Debug\hostelloginpage.pdb
